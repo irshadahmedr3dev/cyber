@@ -30,7 +30,7 @@ curl -fsSL https://cyberscript.dev/install.sh | bash
 curl -fsSL https://raw.githubusercontent.com/fubark/cyber/master/install.sh | bash
 
 # Install most recent dev build.
-curl -fsSL https://cyberscript.dev/install.sh | bash -s latest
+curl -fsSL https://cyberscript.dev/install.sh | bash -s latest...
 ```
 - Install from [Downloads](https://github.com/fubark/cyber/releases).
 - Packages
